@@ -1,2 +1,2 @@
 # TC1033-Proyecto-Agencia-de-veh-culos
-Una empresa necesita crear un programa que pueda visualizar el vehículo que el cliente requiera para su posible compra. El programa deberá arrojar las características principales.
+Una empresa necesita crear un programa que pueda visualizar el vehículo que el cliente requiera para su posible compra. El programa deberá arrojar las características principales. El cliente podrá elegir entre 3 tipos de vehículos; deportivos, camiones o trailers. El programa puede modificar las características como el color disponible, la altura, el año del vehículo, etc.
