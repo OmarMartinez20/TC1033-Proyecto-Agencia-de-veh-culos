@@ -1,2 +1,11 @@
-# TC1033-Proyecto-Agencia-de-veh-culos
-Una empresa necesita crear un programa que pueda visualizar el vehículo que el cliente requiera para su posible compra. El programa deberá arrojar las características principales. El cliente podrá elegir entre 3 tipos de vehículos; deportivos, camiones o trailers. El programa puede modificar las características como el color disponible, la altura, el año del vehículo, etc.
+# TC1033-Proyecto-Juego-infantil-Monstruos
+Este proyecto fue creado con el propósito de brindar un juego para los niños.
+
+CONTEXTO
+Una página web me pide realizar un pequeño juego para los niños y se acerca Halloween
+
+FUNCIONALIDAD
+El programa le perimte al usuario elegir con que montruos desea jugar. También puede cambiar las características.
+
+CONSIDERACIONES
+el pograma solamente compila con 
